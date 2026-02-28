@@ -5,7 +5,7 @@ Technical Stack:
 
 Languages: C/C++, Python, MATLAB, VHDL, Verilog/SystemVerilog
 
-Hardware & Embedded: PCB Design (KiCAD, Altium), ROS, RTOS STM32, ESP32, Raspberry Pi, Arduino, Texas Instruments MSPM0C Family
+Hardware & Embedded: PCB Design (KiCAD, Altium), ROS, RTOS, STM32, ESP32, Raspberry Pi, Arduino, Texas Instruments MSPM0C Family
 
 Web & Cloud: React, Flask, FastAPI, Microsoft Azure, AWS
 
