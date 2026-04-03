@@ -1,11 +1,11 @@
 # Hi, I am Manish 👋
 I am an Honors Computer Engineering student at the University of Texas at Arlington.
 
-I am deeply passionate about bridging the gap between low-level hardware and high-performance software.My engineering journey is driven by a fascination with the entire computing stack—from routing custom PCBs and optimizing microcontroller firmware to architecting parallelized C++ engines and deploying scalable AI backends.
+I am deeply passionate about bridging the gap between low-level hardware and high-performance software. My engineering journey is driven by a fascination with the entire computing stack—from routing custom PCBs and optimizing microcontroller firmware to architecting parallelized C++ engines and deploying scalable AI backends.
 
 Currently, I serve as a Student Technical Assistant at the UTA CREAT Studio, where I mentor engineering teams on complex hardware-software integration. 
 
-]When I am not building deterministic state machines, designing embedded systems, or evaluating LLM prompt drift, I am probably hanging out with cats (which actually inspired my AI cat companion web app!).
+When I am not building deterministic state machines, designing embedded systems, or evaluating LLM prompt drift, I am probably hanging out with cats (which actually inspired my AI cat companion web app!).
 
 ---
 
@@ -45,6 +45,4 @@ Currently, I serve as a Student Technical Assistant at the UTA CREAT Studio, whe
 ---
 
 ## 📫 Let's Connect
-* **Portfolio:** 
-* **LinkedIn:** [Your LinkedIn URL]
 * **Email:** mxs8567@mavs.uta.edu 
